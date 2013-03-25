@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5C6A-66C3
+
+ Directory of C:\Users\mdorbacao\projetos\gitdemo
+
+03/25/2013  07:28 PM    <DIR>          .
+03/25/2013  07:28 PM    <DIR>          ..
+03/25/2013  07:24 PM               360 README.txt
+03/25/2013  07:28 PM                 0 Teste.txt
+               2 File(s)            360 bytes
+               2 Dir(s)  24,747,053,056 bytes free
